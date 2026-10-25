@@ -1,2 +1,8 @@
 # CS-250
 Agile and Scrum portfolio work from the SNHU Travel Project
+
+I interpret users needs by looking at what the user is trying to accomplish and then breaking that into smaller pieces that can be developed and tested. User stories helped with this because they gave an easier way to describe what the user wanted from the system and why it mattered. The acceptance criteria also made it easier to know when the story was actually complete rather than just assuming the feature worked.
+
+I like breaking the work into smaller parts instead of trying to complete everything at once when developing a program. An Agile process I'd continue using is backlog refinement because it helps make sure the requirements are clear before any development starts. I'd also use Sprint Planning, along with regular testing and Sprint reviews so the team can keep track of progress and make any changes before too much of the work is completed in the wrong direction. Working this way, I believe, makes it easier to adjust when requirements change without having to start all over.
+
+I think being a good team member in software development means communicating clearly while doing the work you are responsible for and making sure the rest of the team has the information that is needed. It should also mean being willing to listen to feedback and asking questions if something is unclear to avoid making assumptions. The different Scrum roles have shown how much each person depends on the others since they all have different responsibilities but, the project works better when everyone is communicating and understanding as to how their work affects the rest of the team. 
